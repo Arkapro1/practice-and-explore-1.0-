@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
+    cout<<"6464"<<endl;
     cout<<"ykyk"<<endl;
-    cout<<"hellow codespace"<<endl;
-}
+    cout<<"hellohelloww codespace"<<endl;
+hellowhellow 
