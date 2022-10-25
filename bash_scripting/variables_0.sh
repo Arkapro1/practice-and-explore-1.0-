@@ -8,3 +8,4 @@ file=$(ls)
 place=$(pwd)
 echo "hmmm u r here -> $place 📂 present files -> $file "
 echo "the date is $(date)" #using direct date here 
+#here we goo
